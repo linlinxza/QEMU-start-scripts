@@ -20,7 +20,3 @@ pkill barriers
 
 # Kill Virtual viewer (For Spice server to send audio to Pulseaudio)
 pkill virt-viewer
-
-
-# Reset Pulse Audio
-#pulseaudio -k
