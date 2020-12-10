@@ -1,7 +1,7 @@
 # QEMU-start-scripts
 What I use to run Windows 7 in VFIO Passthrough setup (Setup must be done in Virtual Machine Manager first! Add Spice server for audio!)
 
-Prerequisets:
+Prerequisites:
 
 Barrier (To share host mouse and keyboard)
 Kdocker to minimize VM viewer to tray (For audio to be sent to Pulseaudio server)
